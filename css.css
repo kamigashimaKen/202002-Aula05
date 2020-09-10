@@ -1,0 +1,8 @@
+#div_candidato {
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+  }
+  #voto_candidato {
+    padding: 2%;
+  }
